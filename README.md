@@ -16,6 +16,7 @@
 - Shell Scripting
 - Python Basics
 - Networking Basics
+- AWS Basics
 - HTML, CSS, JavaScript
 
 ## 📂 Featured Projects
