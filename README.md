@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Anuj Pratap Singh 👋
 
-<!--
-**anujpratapsingh9752/anujpratapsingh9752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+🚀 Aspiring DevOps Engineer  
+📚 Currently learning Linux, Git, Docker, Shell Scripting & Cloud
 
-Here are some ideas to get you started:
+## 🔥 Current Focus
+- 90 Days of DevOps Journey
+- Building DevOps projects
+- Improving Linux & Docker skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Linux
+- Git & GitHub
+- Docker
+- Shell Scripting
+- Python Basics
+- Networking Basics
+- HTML, CSS, JavaScript
+
+## 📂 Featured Projects
+- 90 Days of DevOps
+- Two Tier Flask App
+- Django Notes App
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/anuj-pratap-singh-38187032b
+- Email: anujpratapsingh9752@gmail.com
