@@ -19,6 +19,10 @@
 - AWS Basics
 - HTML, CSS, JavaScript
 
+## 📜 Certifications
+- Linux Internship Certificate
+- Basic Python Internship Certificate
+
 ## 📂 Featured Projects
 - 90 Days of DevOps
 - Simon-game-project
