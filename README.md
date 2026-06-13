@@ -21,7 +21,7 @@
 
 ## 📂 Featured Projects
 - 90 Days of DevOps
-- Two Tier Flask App
+- Simon-game-project
 - Django Notes App
 
 ## 📫 Connect With Me
