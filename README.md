@@ -22,7 +22,7 @@
 ## 📂 Featured Projects
 - 90 Days of DevOps
 - Simon-game-project
-- Django Notes App
+- Amazon-clone-project 
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/anuj-pratap-singh-38187032b
