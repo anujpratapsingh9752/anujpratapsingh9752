@@ -24,9 +24,9 @@
 - Basic Python Internship Certificate
 
 ## 📂 Featured Projects
-- 90 Days of DevOps
-- Simon-game-project
-- Amazon-clone-project 
+- 90DaysOfDevOps
+- devboard-frontend-docker
+- python-flask-app
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/anuj-pratap-singh-38187032b
