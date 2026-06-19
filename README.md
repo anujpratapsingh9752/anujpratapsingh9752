@@ -68,7 +68,7 @@ Every day I:
 
 ### 🏅 Linux & AWS Cloud Internship
 
-<img src="images/linux-aws-certificate.jpg" width="450">
+<img src="images/linux-aws-certificate.jpg" width="300">
 
 <br>
 
