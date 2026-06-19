@@ -1,64 +1,63 @@
 <h1 align="center">Hello Dosto 👋, I'm Anuj Pratap Singh</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer+🚀;Cloud+Computing+Enthusiast+☁️;Linux+%26+Docker+Learner+🐧;Future+Platform+Engineer+🔥;B.Tech+CSE+Student+🎓">
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+Aspiring+DevOps+%26+Cloud+Engineer;🐧+Linux+%26+Docker+Enthusiast;☁️+Exploring+Cloud+%26+Automation;📚+Documenting+My+DevOps+Journey">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anujpratapsingh9752&label=Profile+Views&color=0e75b6&style=for-the-badge">
+</p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I am *Anuj Pratap Singh*, a passionate Computer Science Engineer from India 🇮🇳.
-
-🎓 Completed *Diploma in Computer Science Engineering* from Government Polytechnic College Satna.
+Hello! I'm *Anuj Pratap Singh, a passionate Computer Science Engineering student with a strong foundation built through my Diploma in Computer Science Engineering from **Government Polytechnic College Satna, where I graduated with **Grade A*.
 
 🎓 Currently pursuing *B.Tech in Computer Science Engineering through Lateral Entry*.
 
-💻 Passionate about *DevOps, Cloud Computing, Linux Administration and Automation*.
+🚀 Passionate about *DevOps, Linux Administration, Docker, Cloud Computing, Automation and System Fundamentals*.
 
-🌱 Currently learning:
-- Linux Administration
-- Git & GitHub
-- Docker & Containerization
-- Shell Scripting
-- AWS Cloud
-- DevOps Tools
+💡 I believe in learning by doing. Through my *90 Days of DevOps Challenge*, I practice DevOps concepts daily, complete hands-on tasks, create notes, and share my learning journey consistently on GitHub.
 
-🤝 Looking to collaborate on:
-- Open Source Projects
-- DevOps Projects
-- Cloud Projects
+📈 Continuously improving my skills in Linux, Containerization, Cloud Technologies, and modern DevOps practices.
 
-💬 Ask me about:
-- Linux
-- Docker
-- Git & GitHub
-- AWS Basics
-- Shell Scripting
+🎯 My goal is to become a skilled *DevOps & Cloud Engineer* and build reliable, automated, and scalable infrastructure.
 
-⚡ Fun Fact:
-> "Every expert was once a beginner who never gave up."
+---
+
+# 🔥 My DevOps Journey
+
+### 🚀 90 Days of DevOps Challenge
+
+A self-learning journey where I document my daily progress by practicing Linux, Git, Docker, Shell Scripting, Cloud concepts, and DevOps fundamentals.
+
+Every day I:
+- ✅ Complete practical tasks
+- 📝 Write detailed notes
+- 📂 Push my work to GitHub
+- 📚 Learn new concepts consistently
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages & Scripting
+### 🐧 DevOps & Cloud
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,bash,html,css,js" />
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,bash">
 </p>
 
-## ☁️ DevOps & Cloud
+### 🌐 Networking & System Fundamentals
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws" />
-</p>
+- Computer Networking Basics
+- Operating System Fundamentals
+- Linux Command Line
 
-## 🌐 Networking & Tools
+### 💻 Programming & Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,mongodb,postgres">
 </p>
 
 ---
@@ -67,19 +66,20 @@ I am *Anuj Pratap Singh*, a passionate Computer Science Engineer from India 🇮
 
 <table>
 <tr>
+
 <td align="center">
 <h3>Linux & AWS Cloud Internship</h3>
 
-<img src="images/aws-linux-certificate.jpg" width="400">
+<img src="images/linux-aws-certificate.jpg" width="350">
 
 <br>
 ROSTRIS Verse Pvt. Ltd.
 </td>
 
 <td align="center">
-<h3>Python Internship</h3>
+<h3>Summer Internship</h3>
 
-<img src="images/python-certificate.jpg" width="400">
+<img src="images/zensoft-certificate.jpg" width="350">
 
 <br>
 Zensoft Technologies, Bhopal
@@ -90,30 +90,33 @@ Zensoft Technologies, Bhopal
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-<div align="center">
+## 🐧 90DaysOfDevOps
 
-### 🚀 90 Days Of DevOps
-A complete DevOps learning journey with hands-on projects.
-
-### 🐳 DevBoard Frontend Docker
-Dockerized frontend application deployment.
-
-### 🐍 Python Flask App
-Basic Flask application development and deployment.
-
-</div>
+A practical DevOps challenge repository containing daily tasks, notes, and hands-on learning progress.
 
 ---
 
-# 📊 GitHub Stats
+## 🐳 devboard-frontend-docker
+
+Dockerized frontend application demonstrating containerization and deployment concepts.
+
+---
+
+## 🐍 python-flask-app
+
+A beginner Flask application project for understanding backend development and deployment basics.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anujpratapsingh9752&show_icons=true&theme=tokyonight" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anujpratapsingh9752&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anujpratapsingh9752&theme=tokyonight" height="180"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anujpratapsingh9752&theme=tokyonight"/>
 
 </p>
 
@@ -122,9 +125,7 @@ Basic Flask application development and deployment.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anujpratapsingh9752&theme=tokyonight&column=7">
-
+<img src="https://github-profile-trophy.vercel.app/?username=anujpratapsingh9752&theme=tokyonight&column=7"/>
 </p>
 
 ---
@@ -132,9 +133,7 @@ Basic Flask application development and deployment.
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpratapsingh9752&theme=tokyo-night">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpratapsingh9752&theme=tokyo-night"/>
 </p>
 
 ---
@@ -147,6 +146,8 @@ Basic Flask application development and deployment.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:anujpratapsingh9752@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
 </a>
@@ -155,18 +156,8 @@ Basic Flask application development and deployment.
 
 ---
 
-# 👀 Profile Views
+<h3 align="center">
 
-<p align="center">
+🚀 "Small daily improvements lead to big achievements."
 
-<img src="https://komarev.com/ghpvc/?username=anujpratapsingh9752&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-
-</p>
-
----
-
-<h2 align="center">
-
-💡 "Building my future, one deployment at a time 🚀"
-
-</h2>
+</h3>
