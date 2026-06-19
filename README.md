@@ -1,4 +1,4 @@
-<h1 align="center">Hello Dosto 👋, I'm Anuj Pratap Singh</h1>
+<h1 align="center">Hello Dosto 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+Aspiring+DevOps+%26+Cloud+Engineer;🐧+Linux+%26+Docker+Enthusiast;☁️+Exploring+Cloud+%26+Automation;📚+Documenting+My+DevOps+Journey">
