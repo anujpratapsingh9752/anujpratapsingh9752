@@ -16,13 +16,13 @@ Hello! I'm *Anuj Pratap Singh, a passionate Computer Science Engineering student
 
 🎓 Currently pursuing *B.Tech in Computer Science Engineering through Lateral Entry*.
 
-🚀 Passionate about *DevOps, Linux Administration, Docker, Cloud Computing, Automation and System Fundamentals*.
+🚀 Passionate about *DevOps, Linux Administration, Docker, Cloud Computing, Automation, and System Fundamentals*.
 
-💡 I believe in learning by doing. Through my *90 Days of DevOps Challenge*, I practice DevOps concepts daily, complete hands-on tasks, create notes, and share my learning journey consistently on GitHub.
+💡 I believe in learning by doing. Through my *90 Days of DevOps Challenge*, I practice DevOps concepts daily, complete hands-on tasks, write detailed notes, and share my learning journey consistently on GitHub.
 
 📈 Continuously improving my skills in Linux, Containerization, Cloud Technologies, and modern DevOps practices.
 
-🎯 My goal is to become a skilled *DevOps & Cloud Engineer* and build reliable, automated, and scalable infrastructure.
+🎯 My goal is to become a skilled *DevOps & Cloud Engineer* and contribute to building reliable, automated, and scalable infrastructure.
 
 ---
 
