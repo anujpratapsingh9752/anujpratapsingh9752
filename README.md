@@ -75,16 +75,6 @@ Every day I:
 <br>
 ROSTRIS Verse Pvt. Ltd.
 </td>
-
-<td align="center">
-<h3>Summer Internship</h3>
-
-<img src="images/zensoft-certificate.jpg" width="350">
-
-<br>
-Zensoft Technologies, Bhopal
-</td>
-
 </tr>
 </table>
 
