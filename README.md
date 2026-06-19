@@ -62,21 +62,19 @@ Every day I:
 
 ---
 
-# 📜 Certifications
+# 📜 Certification
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center">
-<h3>Linux & AWS Cloud Internship</h3>
+### 🏅 Linux & AWS Cloud Internship
 
-<img src="images/linux-aws-certificate.jpg" width="350">
+<img src="images/linux-aws-certificate.jpg" width="450">
 
 <br>
-ROSTRIS Verse Pvt. Ltd.
-</td>
-</tr>
-</table>
+
+*ROSTRIS Verse Pvt. Ltd.*
+
+</div>
 
 ---
 
