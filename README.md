@@ -142,14 +142,12 @@ A beginner Flask application project for understanding backend development and d
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anuj-pratap-singh-38187032b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/anuj-pratap-singh-38187032b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:anujpratapsingh9752@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
